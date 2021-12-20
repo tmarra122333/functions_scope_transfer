@@ -26,6 +26,7 @@ Topics: Problem solving with functions<br>
 Write answers to the following questions as comments. 
 
 1. What is the difference between a **parameter** and an **argument**?
+
 2. Within a function, what is the difference between **return** and **console.log**?
 3. What are the implications of the ability of a function to return a value?
 
